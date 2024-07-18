@@ -1,16 +1,20 @@
-# myproject
+# FormSheet_App
 
-A new Flutter project.
+Formsheet App is a Flutter-based application designed to streamline data entry and management by integrating Google Forms and Google Sheets. Users can easily enter data using forms, which is then displayed in real-time on Google Sheets. The app also includes an admin login feature for managing and overseeing the data.
 
-## Getting Started
+## Features
 
-This project is a starting point for a Flutter application.
+- **Google Form Integration**: Users can input data through a simple and intuitive form interface.
+- **Google Sheets Integration**: Entered data is automatically populated into Google Sheets for easy access and analysis.
+- **Admin Login**: Admin users can log in to manage forms, view data, and oversee user activity.
+- **User-Friendly Interface**: Designed with ease of use in mind, making it accessible for users of all technical levels.
+- **Real-Time Updates**: Data entered in forms is instantly updated in Google Sheets.
 
-A few resources to get you started if this is your first Flutter project:
+## Installation
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+To install Formsheet App, follow these steps:
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+1. Clone the repository:
+
+   ```bash
+   git clone https://github.com/yourusername/FormsheetApp.git
